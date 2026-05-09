@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা আঁধারে খুঁজি তোমার সীমানা
+> হারানো স্মৃতির ভিড়ে স্বপ্নের ঠিকানা
+> মেঘের আড়ালে কাঁদে লুকানো বেদনা
+> বুকে জমে আছে আজো তোমারই বাসনা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
