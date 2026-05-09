@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Prosthan – 2 (Bishadsindhu)
+
+This log tracks the cryptographic history and versioning for the song **Prosthan – 2 (Bishadsindhu)** (prosthan-2-bishadsindhu).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-10T02:11:57.201252 | `v1` | `843bb6859c8fc3dd3616464dba785e2bae60491ebfbf62ae85852adc05a02915` | `08437d7125bbdb87aff481b6204fb75668a7dc2826b5a460125503843f53aebf` | `2026-05-10_prosthan-2-bishadsindhu-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

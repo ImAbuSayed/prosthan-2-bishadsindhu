@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/prosthan-2-bishadsindhu/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Prosthan – 2 (Bishadsindhu)](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prosthan-2-bishadsindhu/) |
+| **Get License** | [License this song: Prosthan – 2 (Bishadsindhu)](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/prosthan-2-bishadsindhu/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অচেনা আঁধারে খুঁজি তোমার সীমানা
+> হারানো স্মৃতির ভিড়ে স্বপ্নের ঠিকানা
+> মেঘের আড়ালে কাঁদে লুকানো বেদনা
+> বুকে জমে আছে আজো তোমারই বাসনা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `843bb6859c8fc3dd3616464dba785e2bae60491ebfbf62ae85852adc05a02915` |
 | **Timestamp** | May 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
